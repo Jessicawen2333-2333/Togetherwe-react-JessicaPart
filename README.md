@@ -21,7 +21,7 @@ The app aims to connect travelers and hosts through shared experiences.
 ## 📸 Screenshots
 | Sign-in UI | Sign-up UI | Google OAuth |
 |-------------|---------------|----------------------|
-| ![](screenshots/signin.png) | ![](screenshots/signup.png) | ![](screenshots/google.png) |
+| ![](screenshots/https://github.com/Jessicawen2333-2333/Togetherwe-react-JessicaPart/blob/main/screenshots/signin.PNG) | ![](https://github.com/Jessicawen2333-2333/Togetherwe-react-JessicaPart/blob/main/screenshots/signup.PNG) | ![](https://github.com/Jessicawen2333-2333/Togetherwe-react-JessicaPart/blob/main/screenshots/google.PNG) |
 
 ## 👩🏻‍💻 Notes
 This repository contains **only the modules I personally implemented**.  
